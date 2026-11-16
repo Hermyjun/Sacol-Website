@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff8e7;
+    color: #333333;
+    margin: 0;
+    padding: 0;
+    line-height: 1.5;
+}
+
+.banner {
+    background-color: #c0392b;
+    color: white;
+    text-align: center;
+    padding: 8px;
+    font-weight: bold;
+}
+
+header {
+    background-color: #8b4513;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+header h1 {
+    margin: 5px;
+    font-family: "Times New Roman", serif;
+    font-size: 36px;
+}
+
+nav a {
+    color: white;
+    margin: 0 10px;
+    font-size: 18px;
+}
+
+.preorder-button {
+    position: fixed;
+    top: 50px;
+    right: 10px;
+    background-color: #ffcc00;
+    color: black;
+    font-weight: bold;
+    padding: 10px 15px;
+    border: 2px solid black;
+    text-decoration: none;
+    z-index: 10;
+}
